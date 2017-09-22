@@ -1,0 +1,7 @@
+E:\github\helloworld\hello world\hello world\bin\Debug\hello world.exe
+E:\github\helloworld\hello world\hello world\bin\Debug\hello world.pdb
+E:\github\helloworld\hello world\hello world\obj\x86\Debug\hello_world.Frmhelloworld.resources
+E:\github\helloworld\hello world\hello world\obj\x86\Debug\hello_world.Properties.Resources.resources
+E:\github\helloworld\hello world\hello world\obj\x86\Debug\hello world.csproj.GenerateResource.Cache
+E:\github\helloworld\hello world\hello world\obj\x86\Debug\hello world.exe
+E:\github\helloworld\hello world\hello world\obj\x86\Debug\hello world.pdb
